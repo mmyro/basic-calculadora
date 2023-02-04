@@ -1,0 +1,26 @@
+C:\Users\Myro\Desktop\PSI_2D\VisualBasic\Projeto9_Calculadora\Projeto9_Calculadora\bin\Debug\Projeto9_Calculadora.exe.config
+C:\Users\Myro\Desktop\PSI_2D\VisualBasic\Projeto9_Calculadora\Projeto9_Calculadora\bin\Debug\Projeto9_Calculadora.exe
+C:\Users\Myro\Desktop\PSI_2D\VisualBasic\Projeto9_Calculadora\Projeto9_Calculadora\bin\Debug\Projeto9_Calculadora.pdb
+C:\Users\Myro\Desktop\PSI_2D\VisualBasic\Projeto9_Calculadora\Projeto9_Calculadora\bin\Debug\Projeto9_Calculadora.xml
+C:\Users\Myro\Desktop\PSI_2D\VisualBasic\Projeto9_Calculadora\Projeto9_Calculadora\obj\Debug\Projeto9_Calculadora.vbproj.AssemblyReference.cache
+C:\Users\Myro\Desktop\PSI_2D\VisualBasic\Projeto9_Calculadora\Projeto9_Calculadora\obj\Debug\Projeto9_Calculadora.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Myro\Desktop\PSI_2D\VisualBasic\Projeto9_Calculadora\Projeto9_Calculadora\obj\Debug\Projeto9_Calculadora.Form1.resources
+C:\Users\Myro\Desktop\PSI_2D\VisualBasic\Projeto9_Calculadora\Projeto9_Calculadora\obj\Debug\Projeto9_Calculadora.Resources.resources
+C:\Users\Myro\Desktop\PSI_2D\VisualBasic\Projeto9_Calculadora\Projeto9_Calculadora\obj\Debug\Projeto9_Calculadora.vbproj.GenerateResource.cache
+C:\Users\Myro\Desktop\PSI_2D\VisualBasic\Projeto9_Calculadora\Projeto9_Calculadora\obj\Debug\Projeto9_Calculadora.vbproj.CoreCompileInputs.cache
+C:\Users\Myro\Desktop\PSI_2D\VisualBasic\Projeto9_Calculadora\Projeto9_Calculadora\obj\Debug\Projeto9_Calculadora.exe
+C:\Users\Myro\Desktop\PSI_2D\VisualBasic\Projeto9_Calculadora\Projeto9_Calculadora\obj\Debug\Projeto9_Calculadora.xml
+C:\Users\Myro\Desktop\PSI_2D\VisualBasic\Projeto9_Calculadora\Projeto9_Calculadora\obj\Debug\Projeto9_Calculadora.pdb
+C:\Users\Myro\Desktop\PSI_2D\VisualBasic\Modulo 1 Visual Basic\Projeto9_Calculadora\Projeto9_Calculadora\bin\Debug\Projeto9_Calculadora.exe.config
+C:\Users\Myro\Desktop\PSI_2D\VisualBasic\Modulo 1 Visual Basic\Projeto9_Calculadora\Projeto9_Calculadora\bin\Debug\Projeto9_Calculadora.exe
+C:\Users\Myro\Desktop\PSI_2D\VisualBasic\Modulo 1 Visual Basic\Projeto9_Calculadora\Projeto9_Calculadora\bin\Debug\Projeto9_Calculadora.pdb
+C:\Users\Myro\Desktop\PSI_2D\VisualBasic\Modulo 1 Visual Basic\Projeto9_Calculadora\Projeto9_Calculadora\bin\Debug\Projeto9_Calculadora.xml
+C:\Users\Myro\Desktop\PSI_2D\VisualBasic\Modulo 1 Visual Basic\Projeto9_Calculadora\Projeto9_Calculadora\obj\Debug\Projeto9_Calculadora.vbproj.AssemblyReference.cache
+C:\Users\Myro\Desktop\PSI_2D\VisualBasic\Modulo 1 Visual Basic\Projeto9_Calculadora\Projeto9_Calculadora\obj\Debug\Projeto9_Calculadora.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Myro\Desktop\PSI_2D\VisualBasic\Modulo 1 Visual Basic\Projeto9_Calculadora\Projeto9_Calculadora\obj\Debug\Projeto9_Calculadora.Form1.resources
+C:\Users\Myro\Desktop\PSI_2D\VisualBasic\Modulo 1 Visual Basic\Projeto9_Calculadora\Projeto9_Calculadora\obj\Debug\Projeto9_Calculadora.Resources.resources
+C:\Users\Myro\Desktop\PSI_2D\VisualBasic\Modulo 1 Visual Basic\Projeto9_Calculadora\Projeto9_Calculadora\obj\Debug\Projeto9_Calculadora.vbproj.GenerateResource.cache
+C:\Users\Myro\Desktop\PSI_2D\VisualBasic\Modulo 1 Visual Basic\Projeto9_Calculadora\Projeto9_Calculadora\obj\Debug\Projeto9_Calculadora.vbproj.CoreCompileInputs.cache
+C:\Users\Myro\Desktop\PSI_2D\VisualBasic\Modulo 1 Visual Basic\Projeto9_Calculadora\Projeto9_Calculadora\obj\Debug\Projeto9_Calculadora.exe
+C:\Users\Myro\Desktop\PSI_2D\VisualBasic\Modulo 1 Visual Basic\Projeto9_Calculadora\Projeto9_Calculadora\obj\Debug\Projeto9_Calculadora.xml
+C:\Users\Myro\Desktop\PSI_2D\VisualBasic\Modulo 1 Visual Basic\Projeto9_Calculadora\Projeto9_Calculadora\obj\Debug\Projeto9_Calculadora.pdb
